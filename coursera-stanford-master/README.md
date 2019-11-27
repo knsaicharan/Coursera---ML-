@@ -11,6 +11,3 @@ This repo contains lectures and assignments of [Stanford Unitersity - Coursera](
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Machine Learning](https://github.com/tuanavu/coursera-stanford/tree/master/machine_learning) | Machine Learning |
 
-## License
-
-All Solutions licensed under MIT License. See LICENSE for further details.
